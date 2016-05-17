@@ -1,0 +1,72 @@
+nav /* menu */
+{
+    float: left;
+    width: 165px;
+    border: 1px solid black;/* ajout des bordures menus */
+    background-color:#DEB887;
+}
+
+#entete
+{
+	text-align: center;
+	border: 1px solid black; /* ajout des bordures */
+	background-color: #FF0000;
+}
+
+h2
+{
+	margin-left: 450px;
+}
+
+table
+{
+    border-collapse: collapse; /* On colle les bordures du tableau */
+}
+
+td
+{
+    border: 1px solid black; /* ajout des bordures, tableau */
+    width: 300px;
+}
+
+#contenu
+{
+	text-align: center;
+	margin-left: 170px;
+}
+
+img /* toute les photos */
+{
+	width: 250px;
+}
+
+.Photonature  /* photo de l'accueil */
+{
+	margin-left:200px;
+	width:600px;
+}
+
+#accueil
+{
+	margin-left:380px;
+}
+
+#pied
+{
+	text-align: center;
+	border: 1px solid black;
+	height: 50px;
+}
+
+form /* boutons vider panier et commande */
+{
+	margin-left: 30px;
+	margin-bottom: 20px;
+}
+
+body
+{
+	background-color:#FAEBD7;
+}
+
+
